@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-label="Loei1 icon">
+  <rect width="72" height="72" rx="18" fill="#07184a"/>
+  <path d="M18 48V18h8v22h18v8H18z" fill="#ffffff"/>
+  <path d="M46 18h8v30h-8V28l-7 5-4-6 11-9z" fill="#f4b63d"/>
+  <circle cx="24" cy="54" r="4" fill="#18a7db"/>
+  <circle cx="38" cy="54" r="4" fill="#d21f32"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Early childhood quality assurance documents">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7dc"/>
+      <stop offset="1" stop-color="#f4b63d"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef3f8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#00072c" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="640" height="420" rx="24" fill="url(#bg)"/>
+  <circle cx="112" cy="92" r="52" fill="#ffffff" opacity=".45"/>
+  <circle cx="540" cy="80" r="78" fill="#ffffff" opacity=".28"/>
+  <g filter="url(#shadow)">
+    <rect x="118" y="74" width="280" height="260" rx="18" fill="url(#paper)"/>
+    <rect x="148" y="112" width="156" height="18" rx="9" fill="#07184a"/>
+    <rect x="148" y="154" width="202" height="12" rx="6" fill="#cbd6e2"/>
+    <rect x="148" y="184" width="190" height="12" rx="6" fill="#cbd6e2"/>
+    <rect x="148" y="214" width="160" height="12" rx="6" fill="#cbd6e2"/>
+    <rect x="148" y="262" width="104" height="34" rx="17" fill="#d21f32"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="312" y="134" width="178" height="170" rx="18" fill="#ffffff"/>
+    <circle cx="402" cy="190" r="42" fill="#18a7db" opacity=".16"/>
+    <path d="M363 235c16-31 64-31 80 0" fill="none" stroke="#07184a" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="381" cy="181" r="12" fill="#07184a"/>
+    <circle cx="423" cy="181" r="12" fill="#07184a"/>
+    <path d="M383 212c13 10 25 10 38 0" fill="none" stroke="#d21f32" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(448 286)">
+    <rect x="0" y="0" width="88" height="52" rx="14" fill="#07184a"/>
+    <path d="M24 24h40M24 35h26" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>
