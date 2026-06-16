@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="School activity placeholder 4 by 3">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dff5ff"/>
+      <stop offset=".75" stop-color="#edf3f8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" rx="18" fill="url(#sky)"/>
+  <rect x="0" y="400" width="800" height="200" fill="#d9efe2"/>
+  <rect x="110" y="178" width="580" height="238" rx="18" fill="#ffffff"/>
+  <rect x="150" y="220" width="92" height="72" fill="#b9ddf0"/>
+  <rect x="274" y="220" width="92" height="72" fill="#b9ddf0"/>
+  <rect x="398" y="220" width="92" height="72" fill="#b9ddf0"/>
+  <rect x="522" y="220" width="92" height="72" fill="#b9ddf0"/>
+  <rect x="150" y="330" width="464" height="54" rx="12" fill="#07184a"/>
+  <circle cx="256" cy="454" r="44" fill="#f4b63d"/>
+  <circle cx="400" cy="454" r="44" fill="#18a7db"/>
+  <circle cx="544" cy="454" r="44" fill="#d21f32"/>
+  <path d="M214 538c16-54 68-54 84 0M358 538c16-54 68-54 84 0M502 538c16-54 68-54 84 0" fill="none" stroke="#07184a" stroke-width="22" stroke-linecap="round"/>
+</svg>

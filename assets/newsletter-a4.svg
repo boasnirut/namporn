@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842" role="img" aria-label="Newsletter placeholder A4">
+  <rect width="595" height="842" rx="18" fill="#ffffff"/>
+  <rect x="0" y="0" width="595" height="142" rx="18" fill="#07184a"/>
+  <circle cx="72" cy="72" r="36" fill="#f4b63d"/>
+  <text x="126" y="66" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">NEWSLETTER</text>
+  <text x="126" y="102" font-family="Arial, sans-serif" font-size="18" fill="#b9ddf0">Ban Namporn School</text>
+  <rect x="48" y="190" width="500" height="170" rx="12" fill="#edf3f8"/>
+  <rect x="48" y="400" width="218" height="150" rx="12" fill="#f7cfd4"/>
+  <rect x="330" y="400" width="218" height="150" rx="12" fill="#ccecf8"/>
+  <rect x="48" y="600" width="500" height="18" rx="9" fill="#07184a"/>
+  <rect x="48" y="640" width="420" height="14" rx="7" fill="#cbd6e2"/>
+  <rect x="48" y="672" width="460" height="14" rx="7" fill="#cbd6e2"/>
+  <rect x="48" y="704" width="350" height="14" rx="7" fill="#cbd6e2"/>
+  <rect x="48" y="760" width="132" height="38" rx="19" fill="#d21f32"/>
+</svg>
