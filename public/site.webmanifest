@@ -1,0 +1,23 @@
+{
+  "name": "โรงเรียนบ้านน้ำพร",
+  "short_name": "บ้านน้ำพร",
+  "description": "ระบบเตรียมรับการประเมิน สมศ. รอบที่ 5 โรงเรียนบ้านน้ำพร",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#07184a",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
